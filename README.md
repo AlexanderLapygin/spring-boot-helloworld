@@ -19,6 +19,7 @@
 ## Direct descendant
 
 [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+[+ actuator](https://github.com/AlexanderLapygin/spring-boot-actuator#readme)
 
 ---
 

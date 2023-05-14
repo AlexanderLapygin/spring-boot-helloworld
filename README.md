@@ -13,6 +13,7 @@
 - spring-boot
 - starter
 - template
+- test
 
 ---
 
@@ -33,12 +34,6 @@
 [Maven](https://maven.apache.org/)
 
 ---
-
-## Run tests
-
-```sh
-mvnw verify
-```
 
 ## Run
 

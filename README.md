@@ -13,7 +13,6 @@
 - spring-boot
 - starter
 - template
-- test
 
 ---
 

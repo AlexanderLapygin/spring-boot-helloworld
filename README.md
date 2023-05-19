@@ -16,10 +16,11 @@
 
 ---
 
-## Direct descendant
+## Direct descendants
 
 - [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
 - [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+- [+ war](https://github.com/AlexanderLapygin/springboot-war-helloworld#readme)
 
 ---
 

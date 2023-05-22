@@ -33,7 +33,8 @@
 
 ## Requirements
 
-[Maven](https://maven.apache.org/)
+- [Maven](https://maven.apache.org/)
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 ---
 
@@ -42,6 +43,8 @@
 ```sh
 mvnw spring-boot:run
 ```
+
+Take a look at http://localhost:8080/hello.
 
 ### License
 

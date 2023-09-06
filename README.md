@@ -16,6 +16,9 @@
 
 ---
 
+## Direct ancestors
+[- spring-boot]([https://github.com/AlexanderLapygin/spring-boot-swagger#readme](https://github.com/AlexanderLapygin/java-helloworld#readme))
+
 ## Direct descendants
 - [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
 - [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
@@ -31,7 +34,6 @@
 ---
 
 ## Requirements
-
 - [Maven](https://maven.apache.org/)
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 

@@ -17,11 +17,6 @@
 ---
 
 ## Direct descendants
-- [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
-
----
-
-## Requirements
 - [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
 - [+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
 - [+ jdbc-template, postgres](https://github.com/AlexanderLapygin/springboot-jdbctemplate-postgres/tree/main#readme)

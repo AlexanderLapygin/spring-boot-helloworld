@@ -17,7 +17,8 @@
 ---
 
 ## Direct ancestors
-[- spring-boot](https://github.com/AlexanderLapygin/java-helloworld#readme)
+- [- spring-boot](https://github.com/AlexanderLapygin/java-helloworld#readme)
+- [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
 
 ## Direct descendants
 - [+ swagger](https://github.com/AlexanderLapygin/spring-boot-swagger#readme)
